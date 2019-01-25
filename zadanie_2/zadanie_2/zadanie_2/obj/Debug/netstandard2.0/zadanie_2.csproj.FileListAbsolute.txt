@@ -1,0 +1,12 @@
+C:\Users\Łukasz Niecikowski\Source\Repos\s15856\zadanie_2\zadanie_2\zadanie_2\bin\Debug\netstandard2.0\zadanie_2.deps.json
+C:\Users\Łukasz Niecikowski\Source\Repos\s15856\zadanie_2\zadanie_2\zadanie_2\bin\Debug\netstandard2.0\zadanie_2.dll
+C:\Users\Łukasz Niecikowski\Source\Repos\s15856\zadanie_2\zadanie_2\zadanie_2\bin\Debug\netstandard2.0\zadanie_2.pdb
+C:\Users\Łukasz Niecikowski\Source\Repos\s15856\zadanie_2\zadanie_2\zadanie_2\obj\Debug\netstandard2.0\zadanie_2.csprojAssemblyReference.cache
+C:\Users\Łukasz Niecikowski\Source\Repos\s15856\zadanie_2\zadanie_2\zadanie_2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Łukasz Niecikowski\Source\Repos\s15856\zadanie_2\zadanie_2\zadanie_2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Łukasz Niecikowski\Source\Repos\s15856\zadanie_2\zadanie_2\zadanie_2\obj\Debug\netstandard2.0\zadanie_2.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz Niecikowski\Source\Repos\s15856\zadanie_2\zadanie_2\zadanie_2\obj\Debug\netstandard2.0\zadanie_2.AssemblyInfoInputs.cache
+C:\Users\Łukasz Niecikowski\Source\Repos\s15856\zadanie_2\zadanie_2\zadanie_2\obj\Debug\netstandard2.0\zadanie_2.AssemblyInfo.cs
+C:\Users\Łukasz Niecikowski\Source\Repos\s15856\zadanie_2\zadanie_2\zadanie_2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Łukasz Niecikowski\Source\Repos\s15856\zadanie_2\zadanie_2\zadanie_2\obj\Debug\netstandard2.0\zadanie_2.dll
+C:\Users\Łukasz Niecikowski\Source\Repos\s15856\zadanie_2\zadanie_2\zadanie_2\obj\Debug\netstandard2.0\zadanie_2.pdb

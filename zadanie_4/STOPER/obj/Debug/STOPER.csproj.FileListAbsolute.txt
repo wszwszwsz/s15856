@@ -1,0 +1,30 @@
+C:\Users\wszwszwsz\source\repos\STOPER\STOPER\obj\Debug\MainWindow.g.cs
+C:\Users\wszwszwsz\source\repos\STOPER\STOPER\obj\Debug\App.g.cs
+C:\Users\wszwszwsz\source\repos\STOPER\STOPER\obj\Debug\STOPER_MarkupCompile.cache
+C:\Users\wszwszwsz\source\repos\STOPER\STOPER\obj\Debug\STOPER_MarkupCompile.lref
+C:\Users\wszwszwsz\source\repos\STOPER\STOPER\bin\Debug\STOPER.exe.config
+C:\Users\wszwszwsz\source\repos\STOPER\STOPER\bin\Debug\STOPER.exe
+C:\Users\wszwszwsz\source\repos\STOPER\STOPER\bin\Debug\STOPER.pdb
+C:\Users\wszwszwsz\source\repos\STOPER\STOPER\obj\Debug\MainWindow.baml
+C:\Users\wszwszwsz\source\repos\STOPER\STOPER\obj\Debug\STOPER.g.resources
+C:\Users\wszwszwsz\source\repos\STOPER\STOPER\obj\Debug\STOPER.Properties.Resources.resources
+C:\Users\wszwszwsz\source\repos\STOPER\STOPER\obj\Debug\STOPER.csproj.GenerateResource.cache
+C:\Users\wszwszwsz\source\repos\STOPER\STOPER\obj\Debug\STOPER.csproj.CoreCompileInputs.cache
+C:\Users\wszwszwsz\source\repos\STOPER\STOPER\obj\Debug\STOPER.exe
+C:\Users\wszwszwsz\source\repos\STOPER\STOPER\obj\Debug\STOPER.pdb
+C:\Users\wszwszwsz\source\repos\STOPER\STOPER\obj\Debug\STOPER.csprojAssemblyReference.cache
+C:\Users\Łukasz Niecikowski\Desktop\STOPER\STOPER\STOPER\bin\Debug\STOPER.exe.config
+C:\Users\Łukasz Niecikowski\Desktop\STOPER\STOPER\STOPER\bin\Debug\STOPER.exe
+C:\Users\Łukasz Niecikowski\Desktop\STOPER\STOPER\STOPER\bin\Debug\STOPER.pdb
+C:\Users\Łukasz Niecikowski\Desktop\STOPER\STOPER\STOPER\obj\Debug\STOPER.csprojAssemblyReference.cache
+C:\Users\Łukasz Niecikowski\Desktop\STOPER\STOPER\STOPER\obj\Debug\MainWindow.g.cs
+C:\Users\Łukasz Niecikowski\Desktop\STOPER\STOPER\STOPER\obj\Debug\App.g.cs
+C:\Users\Łukasz Niecikowski\Desktop\STOPER\STOPER\STOPER\obj\Debug\STOPER_MarkupCompile.cache
+C:\Users\Łukasz Niecikowski\Desktop\STOPER\STOPER\STOPER\obj\Debug\STOPER_MarkupCompile.lref
+C:\Users\Łukasz Niecikowski\Desktop\STOPER\STOPER\STOPER\obj\Debug\MainWindow.baml
+C:\Users\Łukasz Niecikowski\Desktop\STOPER\STOPER\STOPER\obj\Debug\STOPER.g.resources
+C:\Users\Łukasz Niecikowski\Desktop\STOPER\STOPER\STOPER\obj\Debug\STOPER.Properties.Resources.resources
+C:\Users\Łukasz Niecikowski\Desktop\STOPER\STOPER\STOPER\obj\Debug\STOPER.csproj.GenerateResource.cache
+C:\Users\Łukasz Niecikowski\Desktop\STOPER\STOPER\STOPER\obj\Debug\STOPER.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz Niecikowski\Desktop\STOPER\STOPER\STOPER\obj\Debug\STOPER.exe
+C:\Users\Łukasz Niecikowski\Desktop\STOPER\STOPER\STOPER\obj\Debug\STOPER.pdb

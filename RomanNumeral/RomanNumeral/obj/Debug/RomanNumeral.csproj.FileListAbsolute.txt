@@ -1,0 +1,11 @@
+C:\home\tomek\PJWSTK\MPR\2018\Proj\RomanNumeral\RomanNumeral\bin\Debug\RomanNumeral.dll
+C:\home\tomek\PJWSTK\MPR\2018\Proj\RomanNumeral\RomanNumeral\bin\Debug\RomanNumeral.pdb
+C:\home\tomek\PJWSTK\MPR\2018\Proj\RomanNumeral\RomanNumeral\obj\Debug\RomanNumeral.csprojAssemblyReference.cache
+C:\home\tomek\PJWSTK\MPR\2018\Proj\RomanNumeral\RomanNumeral\obj\Debug\RomanNumeral.csproj.CoreCompileInputs.cache
+C:\home\tomek\PJWSTK\MPR\2018\Proj\RomanNumeral\RomanNumeral\obj\Debug\RomanNumeral.dll
+C:\home\tomek\PJWSTK\MPR\2018\Proj\RomanNumeral\RomanNumeral\obj\Debug\RomanNumeral.pdb
+\\gda-nas\s15856\windows\desktop\RomanNumeral\RomanNumeral\bin\Debug\RomanNumeral.dll
+\\gda-nas\s15856\windows\desktop\RomanNumeral\RomanNumeral\bin\Debug\RomanNumeral.pdb
+\\gda-nas\s15856\windows\desktop\RomanNumeral\RomanNumeral\obj\Debug\RomanNumeral.csproj.CoreCompileInputs.cache
+\\gda-nas\s15856\windows\desktop\RomanNumeral\RomanNumeral\obj\Debug\RomanNumeral.dll
+\\gda-nas\s15856\windows\desktop\RomanNumeral\RomanNumeral\obj\Debug\RomanNumeral.pdb

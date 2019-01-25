@@ -1,0 +1,11 @@
+\\gda-nas\s15856\windows\desktop\RomanNumeral\RomanNumeralTests\bin\Debug\RomanNumeralTests.dll
+\\gda-nas\s15856\windows\desktop\RomanNumeral\RomanNumeralTests\bin\Debug\RomanNumeralTests.pdb
+\\gda-nas\s15856\windows\desktop\RomanNumeral\RomanNumeralTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\gda-nas\s15856\windows\desktop\RomanNumeral\RomanNumeralTests\bin\Debug\RomanNumeral.dll
+\\gda-nas\s15856\windows\desktop\RomanNumeral\RomanNumeralTests\bin\Debug\RomanNumeral.pdb
+\\gda-nas\s15856\windows\desktop\RomanNumeral\RomanNumeralTests\bin\Debug\pl\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+\\gda-nas\s15856\windows\desktop\RomanNumeral\RomanNumeralTests\obj\Debug\RomanNumeralTests.csprojResolveAssemblyReference.cache
+\\gda-nas\s15856\windows\desktop\RomanNumeral\RomanNumeralTests\obj\Debug\RomanNumeralTests.csproj.CoreCompileInputs.cache
+\\gda-nas\s15856\windows\desktop\RomanNumeral\RomanNumeralTests\obj\Debug\RomanNumeralTests.csproj.CopyComplete
+\\gda-nas\s15856\windows\desktop\RomanNumeral\RomanNumeralTests\obj\Debug\RomanNumeralTests.dll
+\\gda-nas\s15856\windows\desktop\RomanNumeral\RomanNumeralTests\obj\Debug\RomanNumeralTests.pdb
